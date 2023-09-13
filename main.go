@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"./domain"
 	"github.com/akamensky/argparse"
+	"github.com/loosehose/ColumbusCLI/domain"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 )
